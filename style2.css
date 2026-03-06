@@ -1,0 +1,18 @@
+
+body {
+    text-align: center;
+    background: #ffe6f0;
+    overflow: scroll;
+}
+
+.gambar {
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    transition: 0.3s;
+  
+}
+
+.gambar:hover {
+    transform: scale(1.1);
+}
